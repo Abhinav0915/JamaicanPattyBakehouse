@@ -1356,7 +1356,7 @@ export default function App() {
                   "Saturday: 10am–6pm",
                   "Sunday: 10am–3pm",
                   "Mon–Tue: Closed",
-                  
+
                 ].map((t) => (
                   <div
                     key={t}
@@ -1450,4 +1450,5 @@ export default function App() {
       </footer>
     </div>
   );
+  
 }
